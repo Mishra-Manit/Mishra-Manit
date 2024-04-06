@@ -8,7 +8,7 @@ I've been learning to code for the past few years. I started off with Python and
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [mshmanit@gmail.com](mailto:mshmanit@gmail.com)
-* 🧠  I'm learning how to use CNNs with NLP
+* 🧠  Invested in Computer Vision solutions
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
